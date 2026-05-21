@@ -1,38 +1,27 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+Descripción
+Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
 
----
+Pasos para reproducir
+Ir a '...'
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Hacer clic en '...'
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Describir cualquier otra acción hasta que ocurra el problema.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+Error que aparece: '...'
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Comportamiento esperado
+Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+Capturas de pantalla o registros
+Si es posible, añade capturas de pantalla o registros de errores.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+Entorno
+Sistema operativo: [p. ej., Windows 10, macOS Catalina]
 
-**Additional context**
-Add any other context about the problem here.
+Navegador y versión: [p. ej., Chrome 87, Safari 14]
+
+Versión del proyecto: [p. ej., 1.0.0]
+
+Información adicional
+Cualquier otra información relevante.
